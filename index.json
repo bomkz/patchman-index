@@ -1,4 +1,5 @@
 {
+    "zstd": "https://github.com/bomkz/patchman-resources/releases/download/76f53ddd-7484-465e-a349-a63e35f84dc7/zstd.exe",
     "content": [
         {
             "version": "00",
