@@ -37,6 +37,7 @@
                                             "available": false
                                         }
                                     ],
+                                    "uuid": "d4d49137-a58b-44f2-9ea8-9f459216bcf7",
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/d4d49137-a58b-44f2-9ea8-9f459216bcf7/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/d4d49137-a58b-44f2-9ea8-9f459216bcf7/unpatch.zip"
                                 },
@@ -52,6 +53,7 @@
                                             "available": true
                                         }
                                     ],
+                                    "uuid": "ccfdeb0f-6cdf-4282-ac8d-eadb373879e7",
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/ccfdeb0f-6cdf-4282-ac8d-eadb373879e7/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/ccfdeb0f-6cdf-4282-ac8d-eadb373879e7/unpatch.zip"
                                 },
@@ -67,8 +69,9 @@
                                             "available": true
                                         }
                                     ],
-                                "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/patch.zip",
-                                "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/unpatch.zip"
+                                    "uuid": "4c34b05d-4718-485d-a175-db5d3203cd71",
+                                    "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/patch.zip",
+                                    "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/unpatch.zip"
                                 }
                             ]
                         }
@@ -108,6 +111,7 @@
                                             "available": false
                                         }
                                     ],
+                                    "uuid": "b44fcd32-9ae4-4761-aa45-9e88b2eda486",
                                 "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/patch.zip",
                                 "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/unpatch.zip"
                                 },
@@ -123,6 +127,7 @@
                                             "available": false
                                         }
                                     ],
+                                    "uuid": "1ec551a3-b599-410f-b223-e3353d4a2295",
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/1ec551a3-b599-410f-b223-e3353d4a2295/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/1ec551a3-b599-410f-b223-e3353d4a2295/unpatch.zip"
                                 },
@@ -138,6 +143,7 @@
                                             "available": true
                                         }
                                     ],
+                                    "uuid": "34624afd-899a-4fe1-bae2-f29f985bd8e4",
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/34624afd-899a-4fe1-bae2-f29f985bd8e4/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/34624afd-899a-4fe1-bae2-f29f985bd8e4/unpatch.zip"
                                 },
@@ -153,6 +159,7 @@
                                             "available": true
                                         }
                                     ],
+                                    "uuid": "d5216912-707e-49e1-9175-54a0264f6919",
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/d5216912-707e-49e1-9175-54a0264f6919/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/d5216912-707e-49e1-9175-54a0264f6919/unpatch.zip"
                                 }
