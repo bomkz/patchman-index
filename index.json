@@ -8,9 +8,11 @@
                     "id": "00",
                     "Name": "None",
                     "description": "Visual Tweaks Only",
-                    "versions": {
-                        "forms": {
-                            "18407725": [
+                    "versions": [
+                        {
+                            "version": "18407725",
+                            "forms": [
+
                                 {
                                     "id": "00",
                                     "type": "checkbox",
@@ -52,7 +54,7 @@
                                 }
                             ]
                         }
-                    }
+                    ]
                 },
                 {
                     "version": "00",
@@ -60,8 +62,9 @@
                     "name": "Betty 2",
                     "description": "More consistent quality than Betty 1, albeit some voice lines sound more british-y",
                 
-                    "versions": {
-                        "18407725": {
+                    "versions": [
+                        {
+                            "version": "18407725",
                             "forms": [
                                 {
                                     "id": "00",
@@ -113,7 +116,7 @@
                                 }
                             ]
                         }
-                    }
+                    ]
                 }
             ]
         }
