@@ -27,28 +27,46 @@
                             "content": [
                                 {
                                     "id": "00",
-                                    "items": {
-                                        "00": true,
-                                        "01": false
-                                    },
+                                    "items": [
+                                        {
+                                            "id": "00",
+                                            "available": true
+                                        }, 
+                                        {
+                                            "id": "01",
+                                            "available": false
+                                        }
+                                    ],
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/d4d49137-a58b-44f2-9ea8-9f459216bcf7/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/d4d49137-a58b-44f2-9ea8-9f459216bcf7/unpatch.zip"
                                 },
                                 {
                                     "id": "01",
-                                    "items": {
-                                        "00": true,
-                                        "01": true
-                                    },
+                                    "items": [
+                                        {
+                                            "id": "00",
+                                            "available": true
+                                        }, 
+                                        {
+                                            "id": "01",
+                                            "available": true
+                                        }
+                                    ],
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/ccfdeb0f-6cdf-4282-ac8d-eadb373879e7/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/ccfdeb0f-6cdf-4282-ac8d-eadb373879e7/unpatch.zip"
                                 },
                                 {
                                     "id": "02",
-                                    "items": {
-                                        "00": false,
-                                        "01": true
-                                    },
+                                    "items": [
+                                        {
+                                            "id": "00",
+                                            "available": false
+                                        }, 
+                                        {
+                                            "id": "01",
+                                            "available": true
+                                        }
+                                    ],
                                 "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/patch.zip",
                                 "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/unpatch.zip"
                                 }
@@ -80,37 +98,61 @@
                             "content": [
                                 {
                                     "id": "00",
-                                    "items": {
-                                        "00": false,
-                                        "01": false
-                                    },
+                                    "items": [
+                                        {
+                                            "id": "00",
+                                            "available": false
+                                        }, 
+                                        {
+                                            "id": "01",
+                                            "available": false
+                                        }
+                                    ],
                                 "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/patch.zip",
                                 "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/unpatch.zip"
                                 },
                                 {
                                     "id": "01",
-                                    "items": {
-                                        "00": true,
-                                        "01": false
-                                    },
+                                    "items": [
+                                        {
+                                            "id": "00",
+                                            "available": true
+                                        }, 
+                                        {
+                                            "id": "01",
+                                            "available": false
+                                        }
+                                    ],
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/1ec551a3-b599-410f-b223-e3353d4a2295/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/1ec551a3-b599-410f-b223-e3353d4a2295/unpatch.zip"
                                 },
                                 {
                                     "id": "02",
-                                    "items": {
-                                        "00": true,
-                                        "01": true
-                                    },
+                                    "items": [
+                                        {
+                                            "id": "00",
+                                            "available": true
+                                        }, 
+                                        {
+                                            "id": "01",
+                                            "available": true
+                                        }
+                                    ],
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/34624afd-899a-4fe1-bae2-f29f985bd8e4/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/34624afd-899a-4fe1-bae2-f29f985bd8e4/unpatch.zip"
                                 },
                                 {
                                     "id": "03",
-                                    "items": {
-                                        "00": false,
-                                        "01": true
-                                    },
+                                    "items": [
+                                        {
+                                            "id": "00",
+                                            "available": false
+                                        }, 
+                                        {
+                                            "id": "01",
+                                            "available": true
+                                        }
+                                    ],
                                     "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/d5216912-707e-49e1-9175-54a0264f6919/patch.zip",
                                     "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/d5216912-707e-49e1-9175-54a0264f6919/unpatch.zip"
                                 }
