@@ -168,6 +168,24 @@
                     ]
                 }
             ]
+        },
+        {
+            "version": "01,
+            "motd": "",
+            "content":[
+                {
+                    "patchName":  "exampleName",
+                    "patchDesc":   "patchDesc",
+                    "patchAuthor": "patchAuthor",
+                    "patchLink:":  "patchLink",
+                    "patchVariants": [
+                        {
+                            "Variant": "mainVariant",
+                            "downloadLink": "downloadlink"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
