@@ -174,16 +174,20 @@
             "motd": "",
             "content":[
                 {
-                    "patchName":  "exampleName",
-                    "patchDesc":   "patchDesc",
-                    "patchAuthor": "patchAuthor",
-                    "patchLink:":  "patchLink",
-                    "patchVariants": [
-                        {
-                            "Variant": "mainVariant",
-                            "downloadLink": "downloadlink"
-                        }
-                    ]
+                    "version": "0000000",
+                    "content":
+                    [
+                        "patchName":  "Dummy Patch",
+                        "patchDesc":   "Dummy Description",
+                        "patchAuthor": "bomkz",
+                        "patchLink:":  "",
+                        "patchVariants": [
+                            {
+                                "Variant": "mainVariant",
+                                "downloadLink": "downloadlink"
+                            }
+                        ]
+                    ],
                 }
             ]
         }
