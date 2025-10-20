@@ -12,7 +12,6 @@
                         {
                             "version": "18407725",
                             "forms": [
-
                                 {
                                     "id": "00",
                                     "type": "checkbox",
@@ -31,7 +30,7 @@
                                         {
                                             "id": "00",
                                             "available": true
-                                        }, 
+                                        },
                                         {
                                             "id": "01",
                                             "available": false
@@ -47,7 +46,7 @@
                                         {
                                             "id": "00",
                                             "available": true
-                                        }, 
+                                        },
                                         {
                                             "id": "01",
                                             "available": true
@@ -63,7 +62,7 @@
                                         {
                                             "id": "00",
                                             "available": false
-                                        }, 
+                                        },
                                         {
                                             "id": "01",
                                             "available": true
@@ -82,7 +81,6 @@
                     "id": "01",
                     "name": "Betty 2",
                     "description": "More consistent quality than Betty 1, albeit some voice lines sound more british-y",
-                
                     "versions": [
                         {
                             "version": "18407725",
@@ -105,15 +103,15 @@
                                         {
                                             "id": "00",
                                             "available": false
-                                        }, 
+                                        },
                                         {
                                             "id": "01",
                                             "available": false
                                         }
                                     ],
                                     "uuid": "b44fcd32-9ae4-4761-aa45-9e88b2eda486",
-                                "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/patch.zip",
-                                "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/unpatch.zip"
+                                    "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/patch.zip",
+                                    "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/unpatch.zip"
                                 },
                                 {
                                     "id": "01",
@@ -121,7 +119,7 @@
                                         {
                                             "id": "00",
                                             "available": true
-                                        }, 
+                                        },
                                         {
                                             "id": "01",
                                             "available": false
@@ -137,7 +135,7 @@
                                         {
                                             "id": "00",
                                             "available": true
-                                        }, 
+                                        },
                                         {
                                             "id": "01",
                                             "available": true
@@ -153,7 +151,7 @@
                                         {
                                             "id": "00",
                                             "available": false
-                                        }, 
+                                        },
                                         {
                                             "id": "01",
                                             "available": true
@@ -172,22 +170,23 @@
         {
             "version": "01",
             "motd": "",
-            "content":[
+            "content": [
                 {
                     "version": "0000000",
-                    "content":
-                    [
-                        "patchName":  "Dummy Patch",
-                        "patchDesc":   "Dummy Description",
-                        "patchAuthor": "bomkz",
-                        "patchLink:":  "",
-                        "patchVariants": [
-                            {
-                                "Variant": "mainVariant",
-                                "downloadLink": "downloadlink"
-                            }
-                        ]
-                    ],
+                    "content": [
+                        {
+                            "patchName": "Dummy Patch",
+                            "patchDesc": "Dummy Description",
+                            "patchAuthor": "bomkz",
+                            "patchLink:": "",
+                            "patchVariants": [
+                                {
+                                    "Variant": "mainVariant",
+                                    "downloadLink": "downloadlink"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
