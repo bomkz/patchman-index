@@ -169,13 +169,13 @@
         },
         {
             "version": "01",
-            "motd": "",
+            "motd": "bbq chicken alert",
             "content": [
                 {
-                    "version": "0000000",
+                    "version": "1",
                     "content": [
                         {
-                            "patchName": "Dummy Patch",
+                            "patchName": "Dummy Test Patch",
                             "patchDesc": "Dummy Description",
                             "patchAuthor": "bomkz",
                             "patchLink:": "",
