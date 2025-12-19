@@ -179,7 +179,7 @@
                     "patchLink:": "",
                     "patchVariants": [
                         {
-                            "Variant": "mainVariant",
+                            "variant": "mainVariant",
                             "downloadLink": "downloadlink"
                         }
                     ]
