@@ -172,19 +172,15 @@
             "motd": "bbq chicken alert",
             "content": [
                 {
-                    "version": "1",
-                    "content": [
+
+                    "patchName": "Dummy Test Patch",
+                    "patchDesc": "Dummy Description",
+                    "patchAuthor": "bomkz",
+                    "patchLink:": "",
+                    "patchVariants": [
                         {
-                            "patchName": "Dummy Test Patch",
-                            "patchDesc": "Dummy Description",
-                            "patchAuthor": "bomkz",
-                            "patchLink:": "",
-                            "patchVariants": [
-                                {
-                                    "Variant": "mainVariant",
-                                    "downloadLink": "downloadlink"
-                                }
-                            ]
+                            "Variant": "mainVariant",
+                            "downloadLink": "downloadlink"
                         }
                     ]
                 }
