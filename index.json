@@ -183,6 +183,22 @@
                             "downloadLink": "downloadlink"
                         }
                     ]
+                },
+                {
+                    "patchName": "Dummy Test Patch 2",
+                    "patchDesc": "Dummy Description 2",
+                    "patchAuthor": "bomkz 2",
+                    "patchLink:": "no",
+                    "patchVariants": [
+                        {
+                            "variant": "mainVariant",
+                            "downloadLink": "downloadlink"
+                        },
+                                                {
+                            "variant": "notMainVariant",
+                            "downloadLink": "downloadlink"
+                        }
+                    ]
                 }
             ]
         }
