@@ -206,9 +206,9 @@
       "motd": "bbq chicken alert",
       "content": [
         {
-          "AppID": "667970",
-          "AppPath": "",
-          "AppName": "",
+          "appID": "667970",
+          "appPath": "",
+          "appName": "",
           "motd": "fish chicken alert",
           "Content": [
             {
