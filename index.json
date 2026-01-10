@@ -1,206 +1,247 @@
 {
-    "content": [
+  "content": [
+    {
+      "version": "00",
+      "content": [
         {
-            "version": "00",
-            "content": [
+          "version": "00",
+          "id": "00",
+          "Name": "None",
+          "description": "Visual Tweaks Only",
+          "versions": [
+            {
+              "version": "18407725",
+              "forms": [
                 {
-                    "version": "00",
-                    "id": "00",
-                    "Name": "None",
-                    "description": "Visual Tweaks Only",
-                    "versions": [
-                        {
-                            "version": "18407725",
-                            "forms": [
-                                {
-                                    "id": "00",
-                                    "type": "checkbox",
-                                    "name": "RWR Texture Tweak"
-                                },
-                                {
-                                    "id": "01",
-                                    "type": "checkbox",
-                                    "name": "TSD Icons Texture Tweak"
-                                }
-                            ],
-                            "content": [
-                                {
-                                    "id": "00",
-                                    "items": [
-                                        {
-                                            "id": "00",
-                                            "available": true
-                                        },
-                                        {
-                                            "id": "01",
-                                            "available": false
-                                        }
-                                    ],
-                                    "uuid": "d4d49137-a58b-44f2-9ea8-9f459216bcf7",
-                                    "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/d4d49137-a58b-44f2-9ea8-9f459216bcf7/patch.zip",
-                                    "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/d4d49137-a58b-44f2-9ea8-9f459216bcf7/unpatch.zip"
-                                },
-                                {
-                                    "id": "01",
-                                    "items": [
-                                        {
-                                            "id": "00",
-                                            "available": true
-                                        },
-                                        {
-                                            "id": "01",
-                                            "available": true
-                                        }
-                                    ],
-                                    "uuid": "ccfdeb0f-6cdf-4282-ac8d-eadb373879e7",
-                                    "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/ccfdeb0f-6cdf-4282-ac8d-eadb373879e7/patch.zip",
-                                    "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/ccfdeb0f-6cdf-4282-ac8d-eadb373879e7/unpatch.zip"
-                                },
-                                {
-                                    "id": "02",
-                                    "items": [
-                                        {
-                                            "id": "00",
-                                            "available": false
-                                        },
-                                        {
-                                            "id": "01",
-                                            "available": true
-                                        }
-                                    ],
-                                    "uuid": "4c34b05d-4718-485d-a175-db5d3203cd71",
-                                    "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/patch.zip",
-                                    "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/unpatch.zip"
-                                }
-                            ]
-                        }
-                    ]
+                  "id": "00",
+                  "type": "checkbox",
+                  "name": "RWR Texture Tweak"
                 },
                 {
-                    "version": "00",
-                    "id": "01",
-                    "name": "Betty 2",
-                    "description": "More consistent quality than Betty 1, albeit some voice lines sound more british-y",
-                    "versions": [
-                        {
-                            "version": "18407725",
-                            "forms": [
-                                {
-                                    "id": "00",
-                                    "type": "checkbox",
-                                    "name": "RWR Texture Tweak"
-                                },
-                                {
-                                    "id": "01",
-                                    "type": "checkbox",
-                                    "name": "TSD Icons Texture Tweak"
-                                }
-                            ],
-                            "content": [
-                                {
-                                    "id": "00",
-                                    "items": [
-                                        {
-                                            "id": "00",
-                                            "available": false
-                                        },
-                                        {
-                                            "id": "01",
-                                            "available": false
-                                        }
-                                    ],
-                                    "uuid": "b44fcd32-9ae4-4761-aa45-9e88b2eda486",
-                                    "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/patch.zip",
-                                    "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/unpatch.zip"
-                                },
-                                {
-                                    "id": "01",
-                                    "items": [
-                                        {
-                                            "id": "00",
-                                            "available": true
-                                        },
-                                        {
-                                            "id": "01",
-                                            "available": false
-                                        }
-                                    ],
-                                    "uuid": "1ec551a3-b599-410f-b223-e3353d4a2295",
-                                    "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/1ec551a3-b599-410f-b223-e3353d4a2295/patch.zip",
-                                    "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/1ec551a3-b599-410f-b223-e3353d4a2295/unpatch.zip"
-                                },
-                                {
-                                    "id": "02",
-                                    "items": [
-                                        {
-                                            "id": "00",
-                                            "available": true
-                                        },
-                                        {
-                                            "id": "01",
-                                            "available": true
-                                        }
-                                    ],
-                                    "uuid": "34624afd-899a-4fe1-bae2-f29f985bd8e4",
-                                    "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/34624afd-899a-4fe1-bae2-f29f985bd8e4/patch.zip",
-                                    "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/34624afd-899a-4fe1-bae2-f29f985bd8e4/unpatch.zip"
-                                },
-                                {
-                                    "id": "03",
-                                    "items": [
-                                        {
-                                            "id": "00",
-                                            "available": false
-                                        },
-                                        {
-                                            "id": "01",
-                                            "available": true
-                                        }
-                                    ],
-                                    "uuid": "d5216912-707e-49e1-9175-54a0264f6919",
-                                    "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/d5216912-707e-49e1-9175-54a0264f6919/patch.zip",
-                                    "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/d5216912-707e-49e1-9175-54a0264f6919/unpatch.zip"
-                                }
-                            ]
-                        }
-                    ]
+                  "id": "01",
+                  "type": "checkbox",
+                  "name": "TSD Icons Texture Tweak"
                 }
-            ]
+              ],
+              "content": [
+                {
+                  "id": "00",
+                  "items": [
+                    {
+                      "id": "00",
+                      "available": true
+                    },
+                    {
+                      "id": "01",
+                      "available": false
+                    }
+                  ],
+                  "uuid": "d4d49137-a58b-44f2-9ea8-9f459216bcf7",
+                  "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/d4d49137-a58b-44f2-9ea8-9f459216bcf7/patch.zip",
+                  "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/d4d49137-a58b-44f2-9ea8-9f459216bcf7/unpatch.zip"
+                },
+                {
+                  "id": "01",
+                  "items": [
+                    {
+                      "id": "00",
+                      "available": true
+                    },
+                    {
+                      "id": "01",
+                      "available": true
+                    }
+                  ],
+                  "uuid": "ccfdeb0f-6cdf-4282-ac8d-eadb373879e7",
+                  "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/ccfdeb0f-6cdf-4282-ac8d-eadb373879e7/patch.zip",
+                  "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/ccfdeb0f-6cdf-4282-ac8d-eadb373879e7/unpatch.zip"
+                },
+                {
+                  "id": "02",
+                  "items": [
+                    {
+                      "id": "00",
+                      "available": false
+                    },
+                    {
+                      "id": "01",
+                      "available": true
+                    }
+                  ],
+                  "uuid": "4c34b05d-4718-485d-a175-db5d3203cd71",
+                  "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/patch.zip",
+                  "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/4c34b05d-4718-485d-a175-db5d3203cd71/unpatch.zip"
+                }
+              ]
+            }
+          ]
         },
         {
-            "version": "01",
-            "motd": "bbq chicken alert",
-            "content": [
+          "version": "00",
+          "id": "01",
+          "name": "Betty 2",
+          "description": "More consistent quality than Betty 1, albeit some voice lines sound more british-y",
+          "versions": [
+            {
+              "version": "18407725",
+              "forms": [
                 {
-
-                    "patchName": "Dummy Test Patch",
-                    "patchDesc": "Dummy Description",
-                    "patchAuthor": "bomkz",
-                    "patchLink:": "",
-                    "patchVariants": [
-                        {
-                            "variant": "mainVariant",
-                            "downloadLink": "downloadlink"
-                        }
-                    ]
+                  "id": "00",
+                  "type": "checkbox",
+                  "name": "RWR Texture Tweak"
                 },
                 {
-                    "patchName": "Dummy Test Patch 2",
-                    "patchDesc": "Dummy Description 2",
-                    "patchAuthor": "bomkz 2",
-                    "patchLink:": "no",
-                    "patchVariants": [
-                        {
-                            "variant": "mainVariant",
-                            "downloadLink": "downloadlink"
-                        },
-                                                {
-                            "variant": "notMainVariant",
-                            "downloadLink": "downloadlink"
-                        }
-                    ]
+                  "id": "01",
+                  "type": "checkbox",
+                  "name": "TSD Icons Texture Tweak"
                 }
-            ]
+              ],
+              "content": [
+                {
+                  "id": "00",
+                  "items": [
+                    {
+                      "id": "00",
+                      "available": false
+                    },
+                    {
+                      "id": "01",
+                      "available": false
+                    }
+                  ],
+                  "uuid": "b44fcd32-9ae4-4761-aa45-9e88b2eda486",
+                  "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/patch.zip",
+                  "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/b44fcd32-9ae4-4761-aa45-9e88b2eda486/unpatch.zip"
+                },
+                {
+                  "id": "01",
+                  "items": [
+                    {
+                      "id": "00",
+                      "available": true
+                    },
+                    {
+                      "id": "01",
+                      "available": false
+                    }
+                  ],
+                  "uuid": "1ec551a3-b599-410f-b223-e3353d4a2295",
+                  "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/1ec551a3-b599-410f-b223-e3353d4a2295/patch.zip",
+                  "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/1ec551a3-b599-410f-b223-e3353d4a2295/unpatch.zip"
+                },
+                {
+                  "id": "02",
+                  "items": [
+                    {
+                      "id": "00",
+                      "available": true
+                    },
+                    {
+                      "id": "01",
+                      "available": true
+                    }
+                  ],
+                  "uuid": "34624afd-899a-4fe1-bae2-f29f985bd8e4",
+                  "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/34624afd-899a-4fe1-bae2-f29f985bd8e4/patch.zip",
+                  "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/34624afd-899a-4fe1-bae2-f29f985bd8e4/unpatch.zip"
+                },
+                {
+                  "id": "03",
+                  "items": [
+                    {
+                      "id": "00",
+                      "available": false
+                    },
+                    {
+                      "id": "01",
+                      "available": true
+                    }
+                  ],
+                  "uuid": "d5216912-707e-49e1-9175-54a0264f6919",
+                  "patchURL": "https://github.com/bomkz/patchman-resources/releases/download/d5216912-707e-49e1-9175-54a0264f6919/patch.zip",
+                  "unpatchURL": "https://github.com/bomkz/patchman-resources/releases/download/d5216912-707e-49e1-9175-54a0264f6919/unpatch.zip"
+                }
+              ]
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "version": "01",
+      "motd": "bbq chicken alert",
+      "content": [
+        {
+          "patchName": "Dummy Test Patch",
+          "patchDesc": "Dummy Description",
+          "patchAuthor": "bomkz",
+          "patchLink:": "",
+          "patchVariants": [
+            {
+              "variant": "mainVariant",
+              "downloadLink": "downloadlink"
+            }
+          ]
+        },
+        {
+          "patchName": "Dummy Test Patch 2",
+          "patchDesc": "Dummy Description 2",
+          "patchAuthor": "bomkz 2",
+          "patchLink:": "no",
+          "patchVariants": [
+            {
+              "variant": "mainVariant",
+              "downloadLink": "downloadlink"
+            },
+            {
+              "variant": "notMainVariant",
+              "downloadLink": "downloadlink"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "02",
+      "motd": "bbq chicken alert",
+      "content": [
+        {
+          "AppID": "667970",
+          "AppPath": "",
+          "AppName": "",
+          "motd": "fish chicken alert",
+          "Content": [
+            {
+              "patchName": "Dummy Test Patch",
+              "patchDesc": "Dummy Description",
+              "patchAuthor": "bomkz",
+              "patchLink:": "",
+              "patchVariants": [
+                {
+                  "variant": "mainVariant",
+                  "downloadLink": "downloadlink"
+                }
+              ]
+            },
+            {
+              "patchName": "Dummy Test Patch 2",
+              "patchDesc": "Dummy Description 2",
+              "patchAuthor": "bomkz 2",
+              "patchLink:": "no",
+              "patchVariants": [
+                {
+                  "variant": "mainVariant",
+                  "downloadLink": "downloadlink"
+                },
+                {
+                  "variant": "notMainVariant",
+                  "downloadLink": "downloadlink"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
