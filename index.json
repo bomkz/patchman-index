@@ -212,19 +212,52 @@
           "appName": "VTOL VR",
           "motd": "fish chicken alert",
           "modifiable": [
-            "SARHLockLoop",
+            "dashSprites",
+            "ea24_stallWarn",
             "gpsLostWarning",
-            ""
+            "hqh_dif",
+            "lockTone",
+            "missileLockLoop",
+            "mwsTone",
+            "radarLockLoop",
+            "radarLocked",
+            "rwrNewContact2",
+            "rwrPing2",
+            "rwrTexture",
+            "SARHLockLoop",
+            "tex_newglove",
+            "ttsw_altitude",
+            "ttsw_autopilotOff",
+            "ttsw_auxEngineFailure",
+            "ttsw_bingoFuel",
+            "ttsw_chaff",
+            "ttsw_chaffEmpty",
+            "ttsw_chaffLow",
+            "ttsw_engineFailure",
+            "ttsw_flare",
+            "ttsw_flareEmpty",
+            "ttsw_flareLow",
+            "ttsw_fuelDump",
+            "ttsw_landingGear",
+            "ttsw_leftEngineFailure",
+            "ttsw_missileLaunch",
+            "ttsw_overG", 
+            "ttsw_pitbull",
+            "ttsw_pullUp",
+            "ttsw_rightEngineFailure",
+            "ttsw_shoot",
+            "ttsw_wingFold",
+            "warningBeep"
           ],
           "modifiableAssets": [
             {
-              "assetName" "AH-94",
-              "assetPath" "DLC\\1770480\\1770480"
+              "assetName": "AH-94",
+              "assetPath": "DLC\\1770480\\1770480"
             },
             {
-              "assetName" "EF-24G",
-              "assetPath" "DLC\\2531290\\2531290"
-            },
+              "assetName": "EF-24G",
+              "assetPath": "DLC\\2531290\\2531290"
+            }
           ],
           "content": [
             {
