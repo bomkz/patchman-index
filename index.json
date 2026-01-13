@@ -175,7 +175,7 @@
           "patchName": "Dummy Test Patch",
           "patchDesc": "Dummy Description",
           "patchAuthor": "bomkz",
-          "patchLink:": "",
+          "patchLink": "",
           "patchVariants": [
             {
               "variant": "mainVariant",
@@ -187,7 +187,7 @@
           "patchName": "Dummy Test Patch 2",
           "patchDesc": "Dummy Description 2",
           "patchAuthor": "bomkz 2",
-          "patchLink:": "no",
+          "patchLink": "no",
           "patchVariants": [
             {
               "variant": "mainVariant",
@@ -220,7 +220,7 @@
               "patchName": "Dummy Test Patch",
               "patchDesc": "Dummy Description",
               "patchAuthor": "bomkz",
-              "patchLink:": "",
+              "patchLink": "",
               "patchVariants": [
                 {
                   "variant": "mainVariant",
@@ -232,7 +232,7 @@
               "patchName": "Dummy Test Patch 2",
               "patchDesc": "Dummy Description 2",
               "patchAuthor": "bomkz 2",
-              "patchLink:": "no",
+              "patchLink": "no",
               "patchVariants": [
                 {
                   "variant": "mainVariant",
