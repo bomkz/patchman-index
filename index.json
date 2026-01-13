@@ -255,6 +255,10 @@
               "assetPath": "DLC\\1770480\\1770480"
             },
             {
+              "assetName": "Base Game",
+              "assetPath": "VTOLVR_Data\\resources.assets"
+            },
+            {
               "assetName": "EF-24G",
               "assetPath": "DLC\\2531290\\2531290"
             }
