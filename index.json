@@ -210,6 +210,11 @@
           "appPath": "\\steamapps\\common\\VTOL VR\\",
           "appName": "VTOL VR",
           "motd": "fish chicken alert",
+          "modifiable": [
+            "SARHLockLoop",
+            "gpsLostWarning",
+            ""
+          ],
           "content": [
             {
               "patchName": "Dummy Test Patch",
@@ -219,7 +224,7 @@
               "patchVariants": [
                 {
                   "variant": "mainVariant",
-                  "downloadLink": "downloadlink"
+                  "downloadLink": "downloadlink",
                 }
               ]
             },
