@@ -217,14 +217,14 @@
           ],
           "content": [
             {
-              "patchName": "Dummy Test Patch",
-              "patchDesc": "Dummy Description",
+              "patchName": "Test Patch",
+              "patchDesc": "Test Description",
               "patchAuthor": "bomkz",
               "patchLink": "",
               "patchVariants": [
                 {
                   "variant": "mainVariant",
-                  "downloadLink": "downloadlink"
+                  "downloadLink": "https://github.com/bomkz/patchman-test/releases/download/Wawa/roseymod.zip"
                 }
               ]
             },
