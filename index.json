@@ -220,7 +220,7 @@
               "patchName": "Test Patch",
               "patchDesc": "Test Description",
               "patchAuthor": "bomkz",
-              "patchLink": "",
+              "patchLink": "https://github.com/bomkz/patchman-test",
               "patchVariants": [
                 {
                   "variant": "mainVariant",
