@@ -208,6 +208,7 @@
         {
           "appID": "667970",
           "appPath": "\\steamapps\\common\\VTOL VR\\",
+          "linuxPathcheck": "",
           "appName": "VTOL VR",
           "motd": "fish chicken alert",
           "modifiable": [
