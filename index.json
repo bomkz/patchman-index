@@ -211,7 +211,7 @@
           "linuxPathcheck": "VTOLVR.exe",
           "appName": "VTOL VR",
           "motd": "fish chicken alert",
-          "modifiable": [
+          "modifiableAssets": [
             "dashSprites",
             "ea24_stallWarn",
             "gpsLostWarning",
@@ -249,7 +249,7 @@
             "ttsw_wingFold",
             "warningBeep"
           ],
-          "modifiableAssets": [
+          "modifiableContent": [
             {
               "assetName": "AH-94",
               "assetPath": "DLC\\1770480\\1770480"
