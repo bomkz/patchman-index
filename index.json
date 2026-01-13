@@ -216,6 +216,16 @@
             "gpsLostWarning",
             ""
           ],
+          "modifiableAssets": [
+            {
+              "assetName" "AH-94",
+              "assetPath" ""
+            },
+            {
+              "assetName" "EF-24G",
+              "assetPath" ""
+            },
+          ],
           "content": [
             {
               "patchName": "Test Patch",
