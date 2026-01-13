@@ -207,8 +207,8 @@
       "content": [
         {
           "appID": "667970",
-          "appPath": "",
-          "appName": "",
+          "appPath": "123",
+          "appName": "456",
           "motd": "fish chicken alert",
           "content": [
             {
