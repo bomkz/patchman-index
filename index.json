@@ -210,7 +210,7 @@
           "appPath": "",
           "appName": "",
           "motd": "fish chicken alert",
-          "Content": [
+          "content": [
             {
               "patchName": "Dummy Test Patch",
               "patchDesc": "Dummy Description",
