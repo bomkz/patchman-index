@@ -169,7 +169,7 @@
     },
     {
       "version": "01",
-      "motd": "bbq chicken alert",
+      "motd": "New update: patchman-2b-2 https://github.com/bomkz/patchman/releases/latest",
       "content": [
         {
           "patchName": "Dummy Test Patch",
