@@ -202,7 +202,7 @@
     },
     {
       "version": "02",
-      "motd": "New update: patchman-2b-2-2 \nhttps://github.com/bomkz/patchman/releases/latest",
+      "motd": "New update: patchman-2b-3 \nhttps://github.com/bomkz/patchman/releases/latest",
       "content": [
         {
           "appID": "667970",
@@ -272,30 +272,18 @@
           ],
           "content": [
             {
-              "patchName": "Test Patch",
-              "patchDesc": "Test Description",
-              "patchAuthor": "bomkz",
-              "patchLink": "https://github.com/bomkz/patchman-test",
+              "patchName": "Mike's F/A 26B Cockpit",
+              "patchDesc": "Re textured worn 4k cockpit textures for the F/A 26.\nIf you have any other cockpit textures installed for the default aircraft its best to disable them as some of the textures are shared across multiple planes.\nEnjoy.",
+              "patchAuthor": "mikedanhan",
+              "patchLink": "https://github.com/bomkz/patchman-patches/releases/tag/mike-cockpit",
               "patchVariants": [
                 {
-                  "variant": "mainVariant",
-                  "downloadLink": "https://github.com/bomkz/patchman-test/releases/download/Wawa/roseymod.zip"
-                }
-              ]
-            },
-            {
-              "patchName": "Dummy Test Patch 2",
-              "patchDesc": "Dummy Description 2",
-              "patchAuthor": "bomkz 2",
-              "patchLink": "no",
-              "patchVariants": [
-                {
-                  "variant": "mainVariant",
-                  "downloadLink": "downloadlink"
+                  "variant": "4k Textures",
+                  "downloadLink": "https://github.com/bomkz/patchman-patches/releases/download/mike-cockpit/mike.zip"
                 },
                 {
-                  "variant": "notMainVariant",
-                  "downloadLink": "downloadlink"
+                  "variant": "2k Textures",
+                  "downloadLink": ""
                 }
               ]
             }
