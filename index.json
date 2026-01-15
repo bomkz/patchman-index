@@ -273,17 +273,21 @@
           "content": [
             {
               "patchName": "Mike's F/A 26B Cockpit",
-              "patchDesc": "Re textured worn 4k cockpit textures for the F/A 26.\nIf you have any other cockpit textures installed for the default aircraft its best to disable them as some of the textures are shared across multiple planes.\nEnjoy.",
+              "patchDesc": "Re textured worn cockpit textures for the F/A 26.\nEnjoy.",
               "patchAuthor": "mikedanhan",
               "patchLink": "https://github.com/bomkz/patchman-patches/releases/tag/mike-cockpit",
               "patchVariants": [
                 {
                   "variant": "4k Textures",
-                  "downloadLink": "https://github.com/bomkz/patchman-patches/releases/download/mike-cockpit/mike.zip"
+                  "downloadLink": "https://github.com/bomkz/patchman-patches/releases/download/mike-cockpit/mike4k.zip"
+                },
+                                {
+                  "variant": "3k Textures",
+                  "downloadLink": "https://github.com/bomkz/patchman-patches/releases/download/mike-cockpit/mike3k.zip"
                 },
                 {
                   "variant": "2k Textures",
-                  "downloadLink": ""
+                  "downloadLink": "https://github.com/bomkz/patchman-patches/releases/download/mike-cockpit/mike2k.zip"
                 }
               ]
             }
