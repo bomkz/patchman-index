@@ -246,7 +246,15 @@
             "ttsw_rightEngineFailure",
             "ttsw_shoot",
             "ttsw_wingFold",
-            "warningBeep"
+            "warningBeep",
+            "tex_miniMFD",
+            "tex_interiorProps",
+            "tex_aFighter2Int",
+            "tex_aFighter2Ext2",
+            "tex_mfd",
+            "tex_acesSeat",
+            "tex_vtol4_int",
+            "tex_aFighter2Int2"
           ],
           "modifiableContent": [
             {
