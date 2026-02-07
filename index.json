@@ -254,7 +254,8 @@
             "tex_mfd",
             "tex_acesSeat",
             "tex_vtol4_int",
-            "tex_aFighter2Int2"
+            "tex_aFighter2Int2",
+            "afterburnerDiamondMask"
           ],
           "modifiableContent": [
             {
