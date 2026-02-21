@@ -202,7 +202,7 @@
     },
     {
       "version": "02",
-      "motd": "New update: patchman-2b-3-2 \nhttps://github.com/bomkz/patchman/releases/latest",
+      "motd": "Major update: patchman-2b-4 Now with GUI!\nhttps://github.com/bomkz/patchman/releases/latest",
       "content": [
         {
           "appID": "667970",
